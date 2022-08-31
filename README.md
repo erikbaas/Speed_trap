@@ -6,3 +6,5 @@ A simple speed trap script, to estimate the speed of a moving object as it passe
 By knowing the exact distance between the green lines, one can estimate the speed at which the drone passes by using the following formula.
 
 v = s / (deltaf / fps)
+
+Note the video is not included due to Github's max upload size.
